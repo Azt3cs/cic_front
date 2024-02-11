@@ -5,6 +5,7 @@
           <li><router-link to="/">Мероприятия </router-link></li>
         <li><router-link to="/Achivments">Достижения</router-link> </li>
         <li><router-link to="/myachivment">Мои достижения</router-link></li>
+        <li><router-link to="/createevent">Создать мероприятие</router-link></li>
         <li style="padding-left: 50%"><router-link to="/auth">Войти</router-link></li>
       </ul>
   </div>
